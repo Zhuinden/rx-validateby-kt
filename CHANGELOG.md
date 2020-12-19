@@ -1,5 +1,10 @@
 # Change log
 
+-Rx-ValidateBy-KT 2.1.0 (2020-12-19)
+--------------------------------
+
+- Make library pure-JVM to enable compatibility with non-Android JVM projects.
+
 -Rx-ValidateBy-KT 2.0.0 (2020-12-09)
 --------------------------------
 
