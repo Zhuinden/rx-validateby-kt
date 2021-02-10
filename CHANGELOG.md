@@ -1,5 +1,10 @@
 # Change log
 
+-Rx-ValidateBy-KT 2.1.1 (2021-02-10)
+--------------------------------
+
+- Fix a distribution issue that caused the kotlin META-INF/*.kotlin_module file be called build.kotlin_module
+
 -Rx-ValidateBy-KT 2.1.0 (2020-12-19)
 --------------------------------
 
